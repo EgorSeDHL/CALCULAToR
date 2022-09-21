@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\egork\OneDrive\Рабочий стол\calculatorr.cs" Link="calculatorr.cs" />
+  </ItemGroup>
+
 </Project>
